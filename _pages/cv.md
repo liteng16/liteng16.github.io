@@ -11,30 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical Engineering, Guizhou University, 2016
+* M.S. in Biomedical Engineering, University of Science and Technology of China, 2019
+* Ph.D in ..., ... University, 2024~2025 (expected)
 
 Work experience
 ======
 * Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * HiSilicon (Shanghai) Technologies CO, LIMITED
+  * Rule: Algorithm Engineer
+  * Duties included: Algorithm implementation  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2015: Teaching Assistant
+  * University of Science and Technology of China
+  * Subject: Information Theory
+  * Duties included: Mark assignments and exams, conduct tutorials for students  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Language Skill
+  * Mandarin Chinese, native language
+  * English, fluent(TOEFL:98, Reading~29, Listing~22, Speaking~22, Writing~25)
+* Computer Skill
+  * C/C++
+  * MATLAB
+  * Python
 
 Publications
 ======
