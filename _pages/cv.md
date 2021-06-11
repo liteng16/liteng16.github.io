@@ -17,12 +17,11 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * HiSilicon (Shanghai) Technologies CO, LIMITED
-  * Rule: Algorithm Engineer
+* 2019.08 ~ 2020.08: Algorithm Engineer
+  * HiSilicon (Shanghai) Technologies CO, LIMITED  
   * Duties included: Algorithm implementation  
 
-* Fall 2015: Teaching Assistant
+* Fall 2018: Teaching Assistant
   * University of Science and Technology of China
   * Subject: Information Theory
   * Duties included: Mark assignments and exams, conduct tutorials for students  
