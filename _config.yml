@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Teng Li | Home"
+title                    : "Welcome to my page"
 title_separator          : "-"
 name                     : &name "Teng Li"
 description              : &description "Rome was not built in a day"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "   Teng Li   "
+  name             : "   Teng Li"
   avatar           : "Profile.JPG" # "profile.png"
   bio              : "Rome was not built in a day"
   location         : # "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "liteng16@mail.ustc.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://liteng16.github.io"
+  github           : # "https://liteng16.github.io"
   google_plus      :
   keybase          :
   instagram        :
