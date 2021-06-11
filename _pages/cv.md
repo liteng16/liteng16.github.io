@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Electrical Engineering, Guizhou University, 2016
-* M.S. in Biomedical Engineering, University of Science and Technology of China, 2019
+* M.S. in Electronic Science and Technology, University of Science and Technology of China, 2019
 * Ph.D in ..., ... University, 2024~2025 (expected)
 
 Work experience
