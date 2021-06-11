@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Welcome to my page"
 title_separator          : "-"
-name                     : &name "    Teng Li    "
+name                     : &name "Teng Li"
 description              : &description "Rome was not built in a day"
 url                      : https://liteng16.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Teng Li"
+  name             : "   Teng Li   "
   avatar           : "Profile.JPG" # "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Rome was not built in a day"
   location         : # "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "https://liteng16.github.io/"
+  github           : "https://liteng16.github.io"
   google_plus      :
   keybase          :
   instagram        :
